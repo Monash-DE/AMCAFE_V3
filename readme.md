@@ -1,4 +1,3 @@
-# :package: :key: AMCAFE_DSTG
 ## :pencil: Description
 This repo contains the modifications to the [AMCAFE](https://github.com/USNavalResearchLaboratory/AMCAFE.git) original created by Teferra Kirubel (Please see the following [publication](https://doi.org/10.1016/j.actamat.2021.116930).
 
