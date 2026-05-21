@@ -1,5 +1,5 @@
 ## :pencil: Description
-This repo contains the modifications to the [AMCAFE](https://github.com/USNavalResearchLaboratory/AMCAFE.git) original created by Teferra Kirubel (Please see the following [publication](https://doi.org/10.1016/j.actamat.2021.116930).
+This repo contains the modifications to the [AMCAFE](https://github.com/USNavalResearchLaboratory/AMCAFE.git) original created by Teferra Kirubel (Please see the following [publication](https://doi.org/10.1016/j.actamat.2021.116930). These updates have been used in the results provided in the following [publication](https://doi.org/10.1016/j.addma.2025.104942).
 
 Included below are a description of the tool from the original AMCAFE repo and the installation instructions. The locations of this information is provided under *AMCAFE Original*.
 
